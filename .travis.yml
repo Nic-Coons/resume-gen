@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en-US">
+	<head>
+		<meta charset="UTF-8"/>
+		<meta name="viewport" content="initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0"/>
+		<meta name="description" content="Resume featuring Grant Stampfli"/>
+		<meta name="keywords" content="Web development, technology wizard, computer support, website consultant"/>
+		<meta name="author" content="Grant Stampfli"/>
+		<title>Grant Stampfli</title>
+		<link rel="icon" href="resources/images/favicon.ico"/>
+		<link rel="stylesheet" href="resources/css/style.css"/>
+		<link rel="stylesheet" href="resources/css/framework.css"/>
+		<script type="text/javascript" src="resources/js/jquery.js"></script>
+		<script type="text/javascript" src="resources/js/spin.js"></script>
+		<script type="text/javascript" src="resources/js/plugins.js"></script>
+		<script type="text/javascript" src="resources/js/analytics.js"></script>
+	</head>
+	<body>
+		<div class="spinload"></div>
+		<div id="gallery">
+			<canvas class="animation"></canvas>
+			<div class="slide slow" style="background-image: url(resources/images/slide-1.jpg); background-size: cover;"></div>
+			<div class="slide slow" style="background-image: url(resources/images/slide-2.jpg); background-size: cover;"></div>
+			<div class="slide slow" style="background-image: url(resources/images/slide-3.jpg); background-size: cover;"></div>
+			<div class="slide slow" style="background-image: url(resources/images/slide-4.jpg); background-size: cover;"></div>
+            <div class="slide slow" style="background-image: url(resources/images/slide-5.jpg); background-size: cover;"></div>
+            <div class="slide slow" style="background-image: url(resources/images/slide-6.jpg); background-size: cover;"></div>
+            <div class="slide slow" style="background-image: url(resources/images/slide-7.jpg); background-size: cover;"></div>
+			<div class="content">
+				<div class="wrap small">
+					<div class="coverage">
+						<img class="avatar" src="resources/images/grs.jpg" alt="Avatar"/>
+					</div>
+				</div>
+				<div class="wrap medium">
+					<p class="name">GRANT STAMPFLI</p>
+					<p class="job"><b>WEB</b> development / <b>INTERACTIVE</b> Technologist</p>
+				</div>
+			</div>
+			<script type="text/javascript">
+				$(function () {
+					$("#gallery").engine();
+					$("#gallery").anim();
+				});
+			</script>
+		</div>
+		<div class="interface">
+			<div id="about">
+				<div class="content effect slow">
+					<div class="wrap medium">
+						<div class="box">
+							<h3 class="topic">ABOUT MY WORK</h3>
+						</div>
+					</div>
+					<div class="wrap large">
+						<h3 class="quote">Do you want to blend in or do you want to stand out?</h3>
+						<p class="quote"><b>I AM:</b> Bold. Not fond of rules.</p>
+						<p class="quote"><b>I DON'T:</b> Do boundaries. Have limits.</p>
+						<p class="quote"><b>Don’t think it’s possible? </b>Allow me to prove you wrong.</p>
+						<h4 class="quote"><strong>It’s your move...</strong></h4>
+					</div>
+				</div>
+				<script type="text/javascript"></script>
+			</div>
+			<div id="custom">
+				<div class="content effect slow">
+					<div class="wrap medium">
+						<div class="box">
+							<h3 class="topic">SKILLS</h3>
+						</div>
+					</div>
+					<div class="wrap medium">
+						<div class="left size-6 responsive">
+							<div class="bar" style="width: 100%;">
+								<p class="progress" style="background-color: #0099CC;">HTML5</p>
+							</div>
+						</div>
+						<div class="right size-6 responsive">
+							<div class="bar" style="width: 100%;">
+								<p class="progress" style="background-color: #334455;">CSS3</p>
+							</div>
+						</div>
+						<div class="left size-6 responsive">
+							<div class="bar" style="width: 90%;">
+								<p class="progress" style="background-color: #0099CC;">jQuery</p>
+							</div>
+						</div>
+						<div class="right size-6 responsive">
+							<div class="bar" style="width: 80%;">
+								<p class="progress" style="background-color: #334455;">JavaScript</p>
+							</div>
+						</div>
+						<div class="left size-6 responsive">
+							<div class="bar" style="width: 40%;">
+								<p class="progress" style="background-color: #0099CC;">Objective C</p>
+							</div>
+						</div>
+						<div class="right size-6 responsive">
+							<div class="bar" style="width: 85%;">
+								<p class="progress" style="background-color: #334455;">CMS</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<script type="text/javascript"></script>
+			</div>
+			<div id="edu">
+				<div class="content effect slow">
+					<div class="wrap medium">
+						<div class="box">
+							<h3 class="topic">EDUCATION</h3>
+						</div>
+					</div>
+					<div class="wrap medium">
+						<div class="left size-6 responsive">
+							<a class="coverage" href="" target="_blank"><img class="icon border fast" src="resources/images/diploma.png" width="256" height="256" alt="Diploma"/></a>
+							<p class="date">2014</p>
+							<p class="diploma">PCS<br />Portland Code School</p>
+							<p class="desc">Front End Development<br />HTML, CSS, JQuery, and Javascript</p>
+						</div>
+						<div class="left size-6 responsive">
+							<a class="coverage" href="" target="_blank"><img class="icon border fast" src="resources/images/diploma.png" width="256" height="256" alt="Diploma"/></a>
+							<p class="date">2011</p>
+							<p class="diploma">PSU<br />Portland State University</p>
+							<p class="desc">Degree in Music<br />Classical Guitar</p>
+						</div>
+						<div class="clear"></div>
+					</div>
+				</div>
+				<script type="text/javascript"></script>
+			</div>
+			<div id="legal">
+				<div class="content">
+					<div class="wrap large">
+						<p class="copyright">2014 &copy; Grant Stampfli - All rights reserved</p>
+					</div>
+				</div>
+				<script type="text/javascript"></script>
+			</div>
+		</div>
+	</body>
+</html>
