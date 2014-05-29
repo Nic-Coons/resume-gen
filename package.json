@@ -1,0 +1,29 @@
+{
+  "name": "grs",
+  "version": "0.0.0",
+  "description": "Portfolio Site",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^1.9.1",
+    "coveralls": "^2.10.0",
+    "istanbul": "^0.2.10"
+  },
+  "devDependencies": {
+    "coveralls": "^2.10.0",
+    "istanbul": "^0.2.10",
+    "mocha": "^1.20.0"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/istanbul cover ./node_modules/.bin/_mocha --report $(if [ \"$TRAVIS\" ]; then echo lcovonly; else echo html; fi) -- && if [ \"$TRAVIS\" ]; then cat ./coverage/lcov.info | ./node_modules/.bin/coveralls; fi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/superiorperformer/grs.git"
+  },
+  "author": "Grant Stampfli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/superiorperformer/grs/issues"
+  },
+  "homepage": "https://github.com/superiorperformer/grs"
+}
