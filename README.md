@@ -1,13 +1,11 @@
 # sudoku
 
-[![Build status][travis-image]][travis-url] [![Code Climate][codeclimate-image]][codeclimate-url] [![Coverage Status][coverage-image]][coverage-url] [![Dependencies][david-image]][david-url]
+[![Code Climate][codeclimate-image]][codeclimate-url] [![Coverage Status][coverage-image]][coverage-url] [![Dependencies][david-image]][david-url]
 
 -----
 ###[The link to the site][link]
 [link]: http://grantstampfli.github.io/grs
 
-[travis-url]: http://travis-ci.org/GrantStampfli/sudoku
-[travis-image]: https://secure.travis-ci.org/GrantStampfli/sudoku.png?branch=master
 [codeclimate-image]: https://codeclimate.com/github/GrantStampfli/sudoku.png
 [codeclimate-url]: https://codeclimate.com/github/GrantStampfli/sudoku
 [coverage-image]: https://coveralls.io/repos/GrantStampfli/sudoku/badge.png
