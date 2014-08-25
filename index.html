@@ -2,15 +2,20 @@
 <html>
 <head>
 <script type="text/javascript">
-    function load()
-    {
-        window.location.href = "resume.html";
-        window.location.href = "resume.pdf";
+    function loadHTML(){
+        window.location.href = ("resume.html");
+
+        function loadPDF(){
+        	window.location.href = ("resume.pdf");
+    	}
+    	return loadPDF();
     }
 </script>
-</head>
+<script type="text/javascript">
 
-<body onload="load()">
+</script>
+</head>
+<body onload="loadHTML()">
   <div style="visibility: hidden;">
     <h1>Grant Stampfli</h1>
     <h3>Developer Resume</h3>
