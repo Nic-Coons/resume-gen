@@ -7,13 +7,13 @@
 
 ------
 
-### Profile {#profile}
+### _PROFILE_ {#profile}
 
 Conscientious and driven professional with a broad skill set who likes to get things done. Strong attention to detail. Able to multitask and bring multiple projects to completion at once. Focused on building user-friendly, standards-based, visually engaging, web sites from concept to testing. Always excited about the latest technology developments, and constantly striving to expand my capabilities.
 
 ------
 
-### Skills {#skills}
+### _SKILLS_ {#skills}
 
 * Web Development
   : Adept at creation of robust web applications. Front-end web development with HTML5/CSS3/Javascript. Previous experience using EmberJS, AngularJS, and NodeJS. 
@@ -26,7 +26,7 @@ Conscientious and driven professional with a broad skill set who likes to get th
   
 -------
 
-### Technical {#technical}
+### _TECH._ {#technical}
 
 1. HTML
 2. CSS
@@ -46,7 +46,7 @@ Conscientious and driven professional with a broad skill set who likes to get th
 
 ------
 
-### Education {#experience}
+### _EDU._ {#experience}
 
 Portland Code School
 : *JavaScript Immersion Class*
@@ -55,7 +55,7 @@ The course is designed to teach advanced web development identifying iterative a
 
 ------
 
-### Experience {#experience}
+### _WORK_ {#experience}
 
 Web-Developer
 : *Freelancer*
@@ -65,12 +65,12 @@ Web-Developer
 Riverstone Residential
 : *Assistant Manager*
   __October 2010-May 2014__
-  I worked extensively throughout Portand's luxury high rise luxury apartment/condo buildings. I was promoted into the Assistant Property Manager position following my brief initial success as a Leasing Consultant, establishing a reputation of being able to "up sell anybody". Responsible for community operations, accounts receivable/payable, month-end financial reporting, all leasing and renewal activities, marketing, tenant relations, collections, and resident functions.
+  I worked extensively throughout Portand's luxury high rise luxury apartment/condo buildings. I was promoted into the Assistant Property Manager position following my brief initial success as a Leasing Consultant, establishing a reputation of meeting and exceeding NOI goals (net operating income). Responsible for community operations, accounts receivable/payable, month-end financial reporting, all leasing and renewal activities, marketing, tenant relations, collections, and resident functions.
   
 Insurance Agent
 : *Indepentent Sales*
   __February 2007–October 2010__
-  As an independent insurance agent I worked closely with my clients to find the best match of benefits using the strongest insurance companies with the needs of each individual. being an independent agent I had the freedom to work 'outside the box' to find coverage for my client’s one at a time because there is no such thing as one plan is best for everyone.  I was able to go beyond my own knowledge base and tap into the skills of the sales experts. Life insurance has many useful dimensions which I was able to learn sophisticated concepts and implement them for my clients.
+  As an independent insurance agent I worked closely with my clients to find the best match of benefits using the strongest insurance companies with the needs of each individual. being an independent agent I had the freedom to work 'outside the box' to find coverage for my clients' one at a time because there is no such thing as one plan is best for everyone.  I was able to go beyond my own knowledge base and tap into the skills of the sales experts. Life insurance has multiple dimensions from which I learned sophisticated concepts and implement them to meet consumer demand.
   
 ------
 
