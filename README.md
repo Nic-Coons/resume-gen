@@ -30,10 +30,10 @@ Available commands:
   templates    List available templates
   version      Show current version information
 ```
+###_**Templates**_ to Choose from are: **[modern]("#1"), [swissen]("#2"), [blockish]("#3"), [readable]("#4"), or [unstyled]("#5")**.
+
 > #####Output Options:
 To generate the **resume.md** to a html and or pdf format follow the steps below. Each of the examples below is a different [template]("modern, swissen, blockish, readable, and unstyled") output. 
-
-The _**Templates**_ to Choose from are: **[modern]("#1"), [swissen]("#2"), [blockish]("#3"), [readable]("#4"), or [unstyled]("#5")**.
 
 1. 
 ```
@@ -87,6 +87,6 @@ cd/app/
 ```
 ___
 > ####ACKNOWLEDGMENTS:
-* The main template style gor this app was borrowed from the **[Sample Resume Template](http://sampleresumetemplate.net/ "A great starting point")**.
+* The main template style for this app was borrowed from the **[Sample Resume Template](http://sampleresumetemplate.net/ "A great starting point")**.
 * The Markdown conversion tool was created by: **[Craig Davis](https://github.com/there4 "Author of the Markdown Generator")**
 * The command line tool for PDF generations ([wkhtmltopdf](https://github.com/pdfkit/pdfkit/wiki/Installing-WKHTMLTOPDF ".md to .pdf")) was created by: **[Ashish Kulkarni](https://github.com/ashkulz "Author of the WKHTMLTOPDF commandline tool.")**
