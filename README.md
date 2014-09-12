@@ -6,7 +6,7 @@
 - Single file deployment (no external stylesheets)
 
 
-### _**Help**_ 
+## **Options and Help:**
 ```
 Usage:
   [options] command [arguments]
