@@ -67,9 +67,8 @@ cd/app/
 ```
 
 
-#####_Optional tweaks to add to:_  [index.html](http://grantstampfli.github.io/grs/index.html "This makes it so when you load the site the browser opens the desired file type.")
+###_Optional tweaks to add to:_  [index.html](http://grantstampfli.github.io/grs/index.html "This makes it so when you load the site the browser opens the desired file type.")
 
-+ 
 ```
 <head>
 	<script type="text/javascript">
@@ -84,11 +83,8 @@ cd/app/
     	};
     </script>
 </head>
+<body onload="loadHTML()">
 ```
-
-+ ```<body onload="loadHTML()">```
-	+ ```<p style="visibility: hidden">Grant Stampfli</p>
-	```
 ___
 > ####ACKNOWLEDGMENTS:
 * The main template style gor this app was borrowed from the **[Sample Resume Template](http://sampleresumetemplate.net/ "A great starting point")**.

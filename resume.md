@@ -76,4 +76,4 @@ Insurance Agent
 
 ### Footer {#footer}
 
-__*[gstampfli.com](http://resume.grantstampfli.com)*__ -- *[mail@gstampfli.com](mailto:mail@gstampfli.com)* -- *LinkedIn:* __*[/grantstampfli](https://www.linkedin.com/in/grantstampfli)*__ -- *Github:* __*[/grantstampfli](https://www.github.com/grantstampfli)*__  
+__*[www.gstampfli.com](http://resume.grantstampfli.com)*__ -- *[mail@gstampfli.com](mailto:mail@gstampfli.com)* -- *LinkedIn:* __*[/grantstampfli](https://www.linkedin.com/in/grantstampfli)*__ -- *Github:* __*[/grantstampfli](https://www.github.com/grantstampfli)*__  
