@@ -2,7 +2,7 @@
 ## Web Developer
 
 > [Download PDF](resume.pdf)  
-> __[(503) 758-9036](tel:503-758-9036)__  
+> __[(503) 758-9036](tel:+15037589036)__  
 > *[mail@gstampfli.com](mailto:mail@gstampfli.com)*
 
 ------
