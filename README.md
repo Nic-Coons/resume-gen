@@ -38,32 +38,32 @@ To generate the **resume.md** to a html and or pdf format follow the steps below
 1. 
 ```
 cd/app/
-./bin/md2resume html --template modern ../resume.md ../
-./bin/md2resume pdf --template modern ../resume.md ../
+./bin/md2resume html --template modern ../resume.md ../../resume/
+./bin/md2resume pdf --template modern ../resume.md ../../resume/
 ```
 2.
 ```
 cd/app/
-./bin/md2resume html --template swissen ../resume.md ../
-./bin/md2resume pdf --template swissen ../resume.md ../
+./bin/md2resume html --template swissen ../resume.md ../../resume/
+./bin/md2resume pdf --template swissen ../resume.md ../../resume/
 ```
 3.
 ```
 cd/app/
-./bin/md2resume html --template blockish ../resume.md ../
-./bin/md2resume pdf --template blockish ../resume.md ../
+./bin/md2resume html --template blockish ../resume.md ../../resume/
+./bin/md2resume pdf --template blockish ../resume.md ../../resume/
 ```
 4.
 ```
 cd/app/
-./bin/md2resume html --template readable ../resume.md ../
-./bin/md2resume pdf --template readable ../resume.md ../
+./bin/md2resume html --template readable ../resume.md ../../resume/
+./bin/md2resume pdf --template readable ../resume.md ../../resume/
 ```
 5.
 ```
 cd/app/
-./bin/md2resume html --template unstyled ../resume.md ../
-./bin/md2resume pdf --template unstyled ../resume.md ../
+./bin/md2resume html --template unstyled ../resume.md ../../resume/
+./bin/md2resume pdf --template unstyled ../resume.md ../../resume/
 ```
 
 
