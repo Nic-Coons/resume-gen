@@ -1,5 +1,5 @@
 # Grant Stampfli
-## Web Developer
+## Web Developer / JavaScript Enthusiast
 
 > [Download PDF](resume.pdf)  
 > __[(503) 758-9036](tel:+15037589036)__  
@@ -65,12 +65,12 @@ Web-Developer
 Riverstone Residential
 : *Assistant Manager*
   __October 2010-May 2014__
-  I worked extensively throughout Portand's luxury high rise luxury apartment/condo buildings. I was promoted into the Assistant Property Manager position following my brief initial success as a Leasing Consultant, I established a reputation for constantly meeting and exceeding goals for 'Net Operating Income'(NOI). Responsible for community operations, accounts receivable/payable, month-end financial reporting, all leasing and renewal activities, marketing, tenant relations, collections, and resident functions.
-  
+  I worked extensively throughout Portand's high rise luxury apartment/condo buildings. I established a reputation for constantly meeting and exceeding goals for 'Net Operating Income'(NOI). Responsible for community operations, accounts receivable/payable, month-end financial reporting, all leasing and renewal activities, marketing, tenant relations, receivables and collections.
+
 Insurance Agent
 : *Indepentent Sales*
   __February 2007–October 2010__
-  As an independent insurance agent, I worked closely with my clients to find the best match of benefits considering the strongest insurance companies and the needs of each individual. Being an independent agent, I had the freedom to work 'outside the box' to find coverage for my clients on an individual basis because there is no such thing as 'one plan is best for everyone'. I was determined to go beyond my own knowledge base and tap into the skills of the sales experts. Life insurance has multiple dimensions from which I learned many sophisticated concepts and how to implement them to meet consumer demand.
+  As an independent insurance agent, I worked closely with my clients to find the best match of benefits considering the strongest insurance companies and the needs of each individual. Life insurance has multiple dimensions from which I learned many sophisticated concepts and how to implement them to meet consumer demand.
   
 ------
 
