@@ -65,15 +65,15 @@ Web-Developer
 Riverstone Residential
 : *Assistant Manager*
   __October 2010-May 2014__
-  Worked throughout Portand's high rise luxury apartment/condo buildings. I established a reputation for constantly meeting and exceeding goals for 'Net Operating Income'(NOI). Responsible for community operations, accounts receivable/payable, month-end financial reporting, all leasing and renewal activities, marketing, tenant relations, receivables and collections.
+  Worked throughout Portand's high rise luxury apartment/condo buildings. I established a reputation for constantly exceeding goals for 'Net Operating Income'(NOI) and 'Gross Projected Rents' (GPR). Maintained all accounts receivable/payable and responsible monthly and annual financials.
 
 Insurance Agent
 : *Indepentent Sales*
   __February 2007–October 2010__
-  As an independent insurance agent, I worked closely with my clients to find the best match of benefits considering the strongest insurance companies and the needs of each individual. Life insurance has multiple dimensions from which I learned many sophisticated concepts and how to implement them to meet consumer demand.
+  Provided clients with a variety of insurance products and options to fit their individual needs, including life, health, accident and long-term care insurance policies, as well as Medicare supplements and annuities. 
   
 ------
 
 ### Footer {#footer}
 
-__*[www.gstampfli.com](http://gstampfli.com)*__ -- *[mail@gstampfli.com](mailto:mail@gstampfli.com)* -- *LinkedIn:* __*[/grantstampfli](https://www.linkedin.com/in/grantstampfli)*__ -- *Github:* __*[/grantstampfli](https://www.github.com/grantstampfli)*__  
+__*[www.gstampfli.com](http://gstampfli.com)*__ -- *[mail@gstampfli.com](mailto:mail@gstampfli.com)* -- *LinkedIn:* __*[/grantstampfli](https://www.linkedin.com/in/grantstampfli)*__ -- *Github:* __*[/grantstampfli](https://www.github.com/grantstampfli)*__ -- *Blog:* __*[finer-code.com](http://finer-code.com)*__  
