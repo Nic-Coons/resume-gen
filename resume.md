@@ -9,7 +9,7 @@
 
 ### _PROFILE_ {#profile}
 
-Conscientious and driven professional with a broad skill set who likes to get things done. Strong attention to detail. Ability to multitask and bring multiple projects to completion at once. Focused on building user-friendly, standards-based, and visually engaging, web sites from concept to testing. Always excited about the latest technology developments, and constantly striving to expand my capabilities.
+Conscientious and driven professional with a mission to not be an "individual contributor", but a key individual who succeeds in maximizing the contributions and success of the entire team. Strong attention to detail. Ability to multitask and bring multiple projects to completion at once. Focused on building user-friendly, standards-based, and visually engaging, web sites from concept to testing. Always excited about the latest technology developments, and constantly striving to expand my capabilities.
 
 ------
 
@@ -51,7 +51,7 @@ Conscientious and driven professional with a broad skill set who likes to get th
 Portland Code School
 : *JavaScript Immersion Class*
   __January 2014-August 2014__
-The course is designed to teach advanced web development identifying iterative and agile development strategies. It covered both front-end and back-end applications in JavaScript (including: Ember.js, jQuery, and NodeJS). Also accentuated JavaScript best practices, code quality, data encapsulation, API implication, closures, binding, inheritance, and name spacing.
+The course is designed to teach advanced web development identifying iterative and agile development (Scrum) strategies. It covered both front-end and back-end applications in JavaScript (including: Ember.js, jQuery, and NodeJS). Also accentuated JavaScript best practices, test driven development, code quality, REST api architecture, data encapsulation, closures, binding, inheritance, and name spacing.
 
 ------
 
@@ -60,20 +60,20 @@ The course is designed to teach advanced web development identifying iterative a
 Web-Developer
 : *Freelancer*
   __July 2013-Present__
-  Full-stack JavaScript development with technologies such as Node.js and Ember.js. While keeping up on XHTML/HTML5 and CSS3 best practices, I like to use frameworks such as Bootstrap and SASS to speed up development time. I build web apps that impact and empower the people using them. I have a genuine passion for writing highly-scalable, modular, and well-documented code; deploying responsive ‘mobile first’ HTML/CSS; and making pixel perfect user-friendly websites.
+  I have a unequivocal passion for building web-apps that impact and empower the people using them. Full-stack JavaScript development utilizing semantic HTML5, CSS3, Bootstrap, EmberJS, Jasmine and REST api architecture while adhering to the latest web UI standards, design patterns, and best practices. Utilizing Compass, Sass, jQuery, agile development, continuous deployment, and test driven development to guarantee productiveness and simplify workflow. I Implement advanced JavaScript functionality with front end frameworks to assemble highly-scalable, modular, and well-documented code; deploying responsive ‘mobile first’ web-apps; and making pixel perfect user-friendly websites.
   
 Riverstone Residential
 : *Assistant Manager*
   __October 2010-May 2014__
-  Worked throughout Portand's high rise luxury apartment/condo buildings. I established a reputation for constantly exceeding goals for 'Net Operating Income'(NOI) and 'Gross Projected Rents' (GPR). Maintained all accounts receivable/payable and responsible monthly and annual financials.
+  Worked throughout Portland's high rise luxury apartment/condo buildings. I established a reputation for constantly exceeding goals for 'Net Operating Income'(NOI) and 'Gross Projected Rents' (GPR). Maintained all accounts receivable/payable and responsible monthly and annual financials.
 
 Insurance Agent
-: *Indepentent Sales*
+: *Independent Sales*
   __February 2007–October 2010__
-  Provided clients with a variety of insurance products and options to fit their individual needs, including life, health, accident and long-term care insurance policies, as well as Medicare supplements and annuities. 
+  Provided clients with a variety of insurance products and options to fit their individual needs, including life, health, accident and long-term care insurance policies, and annuities. Life insurance has multiple dimensions and concepts from which I learned how to implement them to meet consumer demand.
   
 ------
 
 ### Footer {#footer}
 
-__*[www.gstampfli.com](http://gstampfli.com)*__ -- *[mail@gstampfli.com](mailto:mail@gstampfli.com)* -- *LinkedIn:* __*[/grantstampfli](https://www.linkedin.com/in/grantstampfli)*__ -- *Github:* __*[/grantstampfli](https://www.github.com/grantstampfli)*__ -- *Blog:* __*[finer-code.com](http://finer-code.com)*__  
+*Email:* __*[mail@gstampfli.com](mailto:mail@gstampfli.com)*__ -- *Portfolio:* __*[www.gstampfli.com](http://gstampfli.com)*__  -- *Blog:* __*[finer-code.com](http://finer-code.com)*__ -- *LinkedIn:* __*[/grantstampfli](https://www.linkedin.com/in/grantstampfli)*__ -- *Github:* __*[/grantstampfli](https://www.github.com/grantstampfli)*__ 
