@@ -9,7 +9,7 @@
 
 ### _PROFILE_ {#profile}
 
-Conscientious, innovative and driven professional with a mission to not be an "individual contributor", but a key individual who succeeds in maximizing the contributions and success of the entire team. Strong attention to detail. Ability to multitask and bring multiple, complex projects to completion simultaneously. Focused on building user-friendly, standards-based, and visually engaging, web sites from concept to testing. Passionate about developing web-apps that impact and empower users. Always excited about cutting edge technology developments, and constantly striving to expand my capabilities.
+Conscientious, innovative and driven professional with a mission to not be an 'individual contributor', but a key individual who succeeds in maximizing the contributions and success of the entire team. Strong attention to detail. Ability to multitask and bring multiple, complex projects to completion simultaneously. Focused on building user-friendly, standards-based, and visually engaging, web sites from concept to testing. Passionate about developing web-apps that impact and empower users. Always excited about cutting edge technology developments, and constantly striving to expand my capabilities.
 
 ------
 
