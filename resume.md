@@ -9,7 +9,7 @@
 
 ### _PROFILE_ {#profile}
 
-Conscientious and driven professional with a broad skill set who likes to get things done. Strong attention to detail. Ability to multitask and bring multiple projects to completion at once. Focused on building user-friendly, standards-based, and visually engaging, web sites from concept to testing. Always excited about the latest technology developments, and constantly striving to expand my capabilities.
+Conscientious and driven professional with a broad skill set who likes to get things done. Strong attention to detail. Ability to multitask and bring multiple projects to completion simultaneously. Focused on building user-friendly, standards-based, and visually engaging, web sites from concept to testing. Always excited about cutting edge technology developments, and constantly striving to expand my capabilities.
 
 ------
 
