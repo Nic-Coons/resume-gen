@@ -9,7 +9,7 @@
 
 ### _PROFILE_ {#profile}
 
-Conscientious and driven professional with a mission to not be an "individual contributor", but a key individual who succeeds in maximizing the contributions and success of the entire team. Strong attention to detail. Ability to multitask and bring multiple projects to completion at once. Focused on building user-friendly, standards-based, and visually engaging, web sites from concept to testing. Always excited about the latest technology developments, and constantly striving to expand my capabilities.
+Conscientious, innovative and driven professional with a mission to not be an "individual contributor", but a key individual who succeeds in maximizing the contributions and success of the entire team. Strong attention to detail. Ability to multitask and bring multiple, complex projects to completion simultaneously. Focused on building user-friendly, standards-based, and visually engaging, web sites from concept to testing. Passionate about developing web-apps that impact and empower users. Always excited about cutting edge technology developments, and constantly striving to expand my capabilities.
 
 ------
 
@@ -60,17 +60,17 @@ The course is designed to teach advanced web development identifying iterative a
 Web-Developer
 : *Freelancer*
   __July 2013-Present__
-  I have a unequivocal passion for building web-apps that impact and empower the people using them. Full-stack JavaScript development utilizing semantic HTML5, CSS3, Bootstrap, EmberJS, Jasmine and REST api architecture while adhering to the latest web UI standards, design patterns, and best practices. Utilizing Compass, Sass, jQuery, agile development, continuous deployment, and test driven development to guarantee productiveness and simplify workflow. I Implement advanced JavaScript functionality with front end frameworks to assemble highly-scalable, modular, and well-documented code; deploying responsive ‘mobile first’ web-apps; and making pixel perfect user-friendly websites.
+  Full-stack JavaScript development utilizing semantic HTML5, CSS3, Bootstrap, EmberJS, Jasmine and REST api architecture while adhering to the latest web UI standards, design patterns, and best practices. Utilizing Compass, Sass, jQuery, agile development, continuous deployment, and test driven development to guarantee productiveness and simplify workflow. Implementation of advanced JavaScript functionality with front end frameworks to assemble highly-scalable, modular, and well-documented code; deploying responsive ‘mobile first’ web-apps; and pixel perfect user-friendly websites interfaces.
   
 Riverstone Residential
 : *Assistant Manager*
   __October 2010-May 2014__
-  Worked throughout Portland's high rise luxury apartment/condo buildings. I established a reputation for constantly exceeding goals for 'Net Operating Income'(NOI) and 'Gross Projected Rents' (GPR). Maintained all accounts receivable/payable and responsible monthly and annual financials.
+  Worked throughout Portland's high rise luxury apartment/condo buildings. Established a reputation for constantly exceeding goals for 'Net Operating Income'(NOI) and 'Gross Projected Rents' (GPR). Maintained all accounts receivable/payable and responsible monthly and annual financials.
 
 Insurance Agent
 : *Independent Sales*
   __February 2007–October 2010__
-  Provided clients with a variety of insurance products and options to fit their individual needs, including life, health, accident and long-term care insurance policies, and annuities. Life insurance has multiple dimensions and concepts from which I learned how to implement them to meet consumer demand.
+  Provided clients with a variety of insurance products and options to fit their individual needs, including life, health, accident and long-term care insurance policies, and annuities. customized financial services products to meet  to meet individual consumer demand.
   
 ------
 
