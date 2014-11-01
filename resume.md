@@ -60,7 +60,7 @@ The course is designed to teach advanced web development identifying iterative a
 Web-Developer
 : *Freelancer*
   __July 2013-Present__
-  Full-stack JavaScript development utilizing semantic HTML5, CSS3, Bootstrap, EmberJS, Jasmine and REST api architecture while adhering to the latest web UI standards, design patterns, and best practices. Utilizing Compass, Sass, jQuery, agile development, continuous deployment, and test driven development to guarantee productiveness and simplify workflow. Implementation of advanced JavaScript functionality with front end frameworks to assemble highly-scalable, modular, and well-documented code; deploying responsive ‘mobile first’ web-apps; and pixel perfect user-friendly websites interfaces.
+  Full-stack JavaScript development utilizing semantic HTML5, CSS3, Bootstrap, EmberJS, Jasmine and REST api architecture while adhering to the latest web UI standards, design patterns, and best practices. Utilizing Compass, Sass, jQuery, agile development, continuous deployment, and test driven development to guarantee productivity and simplify workflow. Implementation of advanced JavaScript functionality with front end frameworks to assemble highly-scalable, modular, and well-documented code; deploying responsive ‘mobile first’ web-apps; and pixel perfect user-friendly website interfaces.
   
 Riverstone Residential
 : *Assistant Manager*
@@ -70,7 +70,7 @@ Riverstone Residential
 Insurance Agent
 : *Independent Sales*
   __February 2007–October 2010__
-  Provided clients with a variety of insurance products and options to fit their individual needs, including life, health, accident and long-term care insurance policies, and annuities. customized financial services products to meet  to meet individual consumer demand.
+  Provided clients with a variety of insurance products and options to fit their individual needs, including life, health, accident and long-term care insurance policies, and annuities. Customized financial services products to meet  to meet individual consumer demand.
   
 ------
 
